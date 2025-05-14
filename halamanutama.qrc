@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gambar">
+        <file>20160606kebun_kelapa_sawit_rakyat.jpg</file>
+        <file>Group 1.png</file>
+        <file>Group 2.png</file>
+        <file>Group 4.png</file>
+        <file>Group 5.png</file>
+        <file>Desainuman.png</file>
+        <file>desainatmin.png</file>
+    </qresource>
+</RCC>
